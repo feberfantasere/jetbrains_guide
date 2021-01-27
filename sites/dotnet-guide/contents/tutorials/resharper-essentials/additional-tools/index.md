@@ -32,7 +32,7 @@ The [type dependency diagram](https://www.jetbrains.com/help/resharper/Exploring
 
 It visualizes how types depend on one another. Using the context menu, you can also initiate refactorings - no need to dive into code.
 
-### Localization manager
+### Localization Manager
 
 ReSharper's [Localization Manager](https://www.jetbrains.com/help/resharper/Resources__LocalizationManager.html) helps you localize applications.
 
